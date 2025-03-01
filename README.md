@@ -34,7 +34,7 @@ A Flask and WebSocket server that:
 - Processes them and trains models using PyCaret
 - Broadcasts binary control signals via WebSocket
 
-![Backend Server Screenshot](https://i.imgur.com/4f6fb30.png)
+![Backend Server Screenshot](https://i.imgur.com/fsvEEEH.png)
 
 ### IoT Device: House Controller (`2ch_house.ino`)
 
@@ -58,7 +58,7 @@ ESP32-based device that:
   - `1`: Activates forward motion with animated green arrows
   - `0`: Stops motors and displays a red stop sign
 
-![Car Controller Video](https://i.imgur.com/qAd3dwK.mp4)
+![Car Controller Video](https://i.imgur.com/4kWxGYl.mp4)
 
 ## Setup Instructions
 
@@ -116,6 +116,7 @@ Access the web interface at `http://localhost:3000`
 #### Calibration and Training
 
 1. Add Features: Enter feature names (e.g., "Yes", "No") and click "Add Feature"
+
 2. Record Calibration Data:
    - For each feature, click its button to start a 15-second recording session
    - Think about or perform the action associated with that feature
