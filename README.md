@@ -24,7 +24,7 @@ A React-based user interface that provides:
 - Training the classification model
 - Real-time prediction monitoring
 
-![Web Interface Screenshot](@GUI.png)
+![Web Interface Screenshot](https://imgur.com/a/2h3upH5)
 
 ### Backend Server (`app.py`)
 
