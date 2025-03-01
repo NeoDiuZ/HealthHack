@@ -12,12 +12,14 @@ Our system empowers users to control assistive technologies for mobility and hom
 
 ## 🏆 Why MindSync Excels
 
-### Meeting Healthcare Innovation Challenges
-
 Healthcare is shifting from reactive treatment to proactive, AI-driven prevention. MindSync tackles this transformation by:
 
-- **🔄 Real-time Health Monitoring**: Our non-invasive sensors capture neural signals that can be monitored continuously, providing valuable data for early intervention.
-- **🧘 Mental Well-being Support**: By giving users greater control over their environment, MindSync reduces dependency and improves mental health outcomes for those with mobility challenges.
+- **💰 Radical Affordability**: MindSync is 100x cheaper than competing solutions, making neural control accessible to underserved populations and healthcare systems with limited resources.
+
+- **🌐 Broader Use Cases**: MindSync extends beyond mobility to support mental health monitoring, rehabilitation exercises, medication adherence tracking, and even cognitive training applications.
+
+- **🏠 At-Home Healthcare**: Our non-invasive approach eliminates the need for clinical settings, reducing healthcare costs and enabling continuous care in patients' homes.
+
 - **💪 Empowering Independence**: Our technology transforms healthcare accessibility by enabling users to control devices without physical interaction.
 
 ### 🥇 Competitive Advantage
