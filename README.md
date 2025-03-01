@@ -153,6 +153,42 @@ https://github.com/user-attachments/assets/b61d0a1e-b615-4533-8232-0086ec7bd34f
   - The system will continuously classify your subvocal signals.
   - When detected, commands are wirelessly transmitted to IoT devices.
 
+## 🛠️ Technology Stack
+
+MindSync leverages a diverse set of modern technologies to create a seamless brain-computer interface experience:
+
+### 🌐 Frontend
+- **⚛️ React.js**
+- **⏭️ Next.js**
+- **🎨 Tailwind CSS**
+- **🔍 Lucide-React**
+- **🧩 Shadcn/UI**
+
+### 🔙 Backend
+- **🐍 Python**
+- **🌶️ Flask**
+- **📡 WebSockets**
+- **🤖 PyCaret**
+- **🧠 scikit-learn**
+- **🔢 NumPy/Pandas**
+- **📊 FastICA**
+
+### 💻 Hardware & IoT
+- **⚡ ESP32**
+- **🔌 Arduino Framework**
+- **💡 NeoPixel LEDs**
+- **📈 EMG Sensors**
+- **🔄 Serial Communication**
+
+### 🔄 Data Processing Pipeline
+1. **📥 Signal Acquisition**
+2. **🧹 Signal Preprocessing**
+3. **🔍 Feature Extraction**
+4. **🏷️ Classification**
+5. **📤 Command Transmission**
+
+This integrated stack enables MindSync to process neural signals with minimal latency (under 100ms) while maintaining high classification accuracy and reliable device control.
+
 ## Common Use Cases
 
 - **Mobility Assistance**: Control wheelchairs, prosthetics, or other mobility devices.
