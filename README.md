@@ -34,6 +34,8 @@ A Flask and WebSocket server that:
 - Processes them and trains models using PyCaret
 - Broadcasts binary control signals via WebSocket
 
+![Backend Server Screenshot](https://i.imgur.com/4f6fb30.png)
+
 ### IoT Device: House Controller (`2ch_house.ino`)
 
 ESP32-based device that:
@@ -44,6 +46,8 @@ ESP32-based device that:
   - `1`: Activates servo and lights
   - `0`: Stops servo and turns off lights
 
+![House Controller Video](https://i.imgur.com/qAd3dwK.mp4)
+
 ### IoT Device: Car Controller (`2ch_car.ino`)
 
 ESP32-based device that:
@@ -53,6 +57,8 @@ ESP32-based device that:
 - Responds to binary commands (0/1):
   - `1`: Activates forward motion with animated green arrows
   - `0`: Stops motors and displays a red stop sign
+
+![Car Controller Video](https://i.imgur.com/qAd3dwK.mp4)
 
 ## Setup Instructions
 
